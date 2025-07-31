@@ -1,4 +1,4 @@
-# React Core Concepts Page
+# React Opinion Board Page
 
 ## 🖼️ Preview
 ![Preview](./Assets/ReactOpinionBoard.png)
